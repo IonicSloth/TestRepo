@@ -1,4 +1,4 @@
 # TestRepo
-repo for testing and learning git
+throwaway
 
 learning git.
